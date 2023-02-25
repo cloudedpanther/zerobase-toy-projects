@@ -111,6 +111,7 @@ h2 {
 
 .item_buttons {
   width: 118px;
+  display: flex;
 }
 
 .item_buttons > button {
